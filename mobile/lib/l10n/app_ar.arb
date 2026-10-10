@@ -1,0 +1,21 @@
+{
+  "@@locale": "ar",
+  "appName": "وسيم",
+  "appSlogan": "إطلالتك تبدأ من هنا",
+  "appSubSlogan": "منصة حجز الحلاقة الذكية",
+  "welcomeTitle": "مرحباً بك في وسيم",
+  "welcomeSubtitle": "احجز موعد حلاقتك بكل سهولة وسرعة",
+  "getStarted": "ابدأ الآن",
+  "login": "تسجيل الدخول",
+  "register": "إنشاء حساب",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "home": "الرئيسية",
+  "bookings": "حجوزاتي",
+  "barbers": "الحلاقين",
+  "profile": "حسابي",
+  "retry": "إعادة المحاولة",
+  "errorOccurred": "حدث خطأ غير متوقع",
+  "loading": "جارٍ التحميل..."
+}
