@@ -29,6 +29,12 @@ jobs:
           channel: 'stable'
           cache: true
 
+      - name: Recreate Android Project Configuration
+        working-directory: ./mobile
+        run: |
+          flutter config --enable-android
+          flutter create . --platform=android --org=com.waseem
+
       - name: Install Dependencies
         working-directory: ./mobile
         run: flutter pub get
